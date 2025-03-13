@@ -45,3 +45,5 @@ mongodb/
 # OS specific
 .DS_Store
 Thumbs.db 
+
+credentials.yml
