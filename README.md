@@ -1,4 +1,4 @@
-# Gmail Email Processor
+# SMART GMAIL 
 
 A Python application that fetches emails from Gmail and stores them in MongoDB for processing. This project is designed to help you process and analyze your Gmail inbox programmatically.
 
